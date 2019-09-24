@@ -15,17 +15,18 @@ By using the wing span we can calculate various parameters like fuselage length,
  
  ## Deployment 
 
-  ### A.RC TRAINER CALCULATION SOFTWARE USING MATLAB 
+  ### 1.RC TRAINER CALCULATION SOFTWARE USING MATLAB 
     
   ![](media/trainer.gif)
   
   Run ``RC_Design.m`` on matlab or octave and to edit the design open the ``RC_Design.fig`` in matlab 
     
-  ### B.RC DELTA CALCULATION SOFTWARE USING MATLAB 
+  ### 2.RC DELTA CALCULATION SOFTWARE USING MATLAB 
   
   ![](media/de.gif)
   
-  Run ``de.m`` on matlab or octave and to edit the design open the ``de.fig`` in matlab 
+  a.change the name of the file from ``RC_Delta.m`` to ``de.m`` and ``RC_Delta.fig`` to ``de.fig``
+  b.Run ``de.m`` on matlab or octave and to edit the design open the ``de.fig`` in matlab 
 
 ### IMPORTANT
 
