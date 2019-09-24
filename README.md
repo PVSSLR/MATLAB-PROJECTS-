@@ -25,8 +25,8 @@ By using the wing span we can calculate various parameters like fuselage length,
   
   ![](media/de.gif)
   
-  a.change the name of the file from ``RC_Delta.m`` to ``de.m`` and ``RC_Delta.fig`` to ``de.fig``
-  b.Run ``de.m`` on matlab or octave and to edit the design open the ``de.fig`` in matlab 
+ * Change the name of the file from ``RC_Delta.m`` to ``de.m`` and ``RC_Delta.fig`` to ``de.fig``
+ * Run ``de.m`` on matlab or octave and to edit the design open the ``de.fig`` in matlab 
 
 ### IMPORTANT
 
